@@ -1,3 +1,13 @@
+/* Geral */ 
+@import "/css/global.css";
+
+/* estilos */
+@import "/css/tipografia/tipografia.css";
+@import "/css/tipografia/cores.css";
+
+/* Pagina Inicial */
+@import "/css/introducao/introducao.css";
 @import "/css/menu.css";
-@import "/css/introducao.css";
-@import "/css/global.css"
+
+
+@import "/css/bicicletas-lista.css"
