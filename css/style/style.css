@@ -1,5 +1,5 @@
-/* Geral */ 
-@import "/css/global.css";
+/* Geral */
+@import "/css/global/global.css";
 
 /* estilos */
 @import "/css/tipografia/tipografia.css";
@@ -7,7 +7,6 @@
 
 /* Pagina Inicial */
 @import "/css/introducao/introducao.css";
-@import "/css/menu.css";
+@import "/css/menu/menu.css";
 
-
-@import "/css/bicicletas-lista.css"
+@import "/css/bicicletas/bicicletas-lista.css";
