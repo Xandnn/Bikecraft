@@ -7,13 +7,6 @@
   margin-bottom: 60px;
 }
 
-.bicicletas-lista h2 {
-  box-sizing: border-box;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;  
-}
-
 .bicicletas-lista ul {
    display: flex;
    gap: 40px;
