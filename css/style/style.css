@@ -10,6 +10,7 @@
 @import "/css/introducao/introducao.css";
 @import "/css/menu/menu.css";
 
+/* Pagina Inicial bicicletas */
 @import "/css/bicicletas/bicicletas-lista.css";
 
 @import "/css/utilidades/utilidades.css";
@@ -17,3 +18,4 @@
 @import "/css/utilidades/componentes.css";
 @import "/css/parceiros/parceiros.css";
 @import "/css/depoimentos/depoimentos.css";
+@import "/css/seguros/seguros.css"
