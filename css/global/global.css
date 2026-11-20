@@ -16,7 +16,7 @@ ul {
 
 h1,
 p,
-ul, h2, h3 {
+ul, h2, h3, blockquote {
   margin: 0px;
 }
 
